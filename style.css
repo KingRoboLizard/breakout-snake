@@ -1,0 +1,13 @@
+body {
+    background-color: darkslategray;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+}
+
+div {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
